@@ -11,3 +11,4 @@ http.createServer(function(req,res){
 	console.log("挂起")
 })
 // .listen监听端口
+var fs=require("fs")

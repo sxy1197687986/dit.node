@@ -1,0 +1,8 @@
+var path =require("path")
+console.log(path.resolve('E:/html/Nodes/Day01',"./aa"))
+// console.log(path.normalize('E:/html/Nodes/Day01'))
+// console.log(path.isAbsolute('E:/html/Nodes/Day01'))
+// console.log(path.join("/aa","/bbb","/cc","//dd"))
+// console.log(path.dirname('E:/html/Nodes/Day01'))
+// console.log(path.basename('E:/html/Nodes/Day01'))
+// console.log(path.extname('E:/html/Nodes/Day01/111.html'))
